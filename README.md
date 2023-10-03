@@ -16,6 +16,4 @@ This project focuses on designing, implementing, and managing ETL (Extract, Tran
 Contributions are welcome! If you'd like to enhance the project or add new features, feel free to create a pull request.
 
 ## License
-This project is licensed under the MIT License.
-
 Please note that this README provides a high-level overview of the project. For detailed setup instructions and specific usage guides, refer to the documentation in the respective directories.
